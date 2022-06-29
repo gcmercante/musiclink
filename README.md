@@ -7,6 +7,8 @@
  - [ ]  a
 
 ## Regras de negócio
+### Criação de usuário
  - [ ] Deve ser validado o formato do email
  - [ ] Deve ser validado o tamanho e conteudo da senha
  - [ ] Deve ser selecionada uma data de nascimento válida
+ - [ ] 
